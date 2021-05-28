@@ -1,0 +1,43 @@
+h4{
+	color:#0000ff;
+	text-align: center;
+	font-family: Arial
+}
+table,tr,td{
+	margin: auto;
+	border-width: 1px;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	text-align: center;
+	font-weight: 600;
+}
+th{
+	background-color: #008000;
+	color: white;
+	font-family: Arial;
+	height:33px;
+}
+#maudo{
+	color:#ff0000;
+}
+td{
+	padding-left: 10px;
+	height:30px;
+	font-family: Arial;
+}
+tr{
+	padding-left: 30px;
+	height:30px;
+	font-family: Arial;
+}
+table{
+	width: 677px;
+}
+#danhsach1{
+	list-style-position: inside;
+	list-style-image:url(a.png);
+}
+ul{
+	list-style: square;
+}
